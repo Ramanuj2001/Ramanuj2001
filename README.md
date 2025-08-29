@@ -11,6 +11,6 @@
 - Exploring **API Testing & CI/CD integration**  
 
 ## 📫 Connect with Me  
-- [LinkedIn](www.linkedin.com/in/ramanuj-saini-a45465201)  
+- [LinkedIn](https://www.linkedin.com/in/ramanuj-saini-a45465201) 
 - [Portfolio](https://ramanuj2001.github.io/Portfolio/)  
 - 📧 Email: ramanujsaini2001@gmail.com  
