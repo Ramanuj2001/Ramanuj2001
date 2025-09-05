@@ -29,11 +29,13 @@
 
 
 
-### 3. PayPal Pioneers Testing
-- **Description:** Manual and automation testing for PayPal Pioneers website.  
-- **Key Responsibilities:**
-  - Smoke, Regression, and Functional Testing
-  - Test case creation and execution
-  - Bug reporting with severity levels and screenshots
-  - Test plan and summary preparation  
-- **Repository:** [PayPal Pioneers Testing](https://github.com/Ramanuj2001/paypal-pioneers-testing) 
+### 2. NewSonicsargam
+- **Description:** End-to-end testing and functionality evaluation of **NewSonicsargam demo website**, including usability, module testing, and defect reporting.  
+- **Tech Stack:** Manual Testing, Test Plan Documentation, Bug Reporting, Visual Evidence  
+- **Key Features:**
+  - Comprehensive **Usability and Functionality Testing**
+  - Detailed **Test Plan, Test Scenarios, and Test Cases**
+  - **Defect Reports** with severity and screenshots
+  - Evaluation of modules and submodules  
+- **Repository:** [NewSonicsargam Testing](https://github.com/Ramanuj2001/NewsonicSargam)  
+
