@@ -19,7 +19,11 @@
 - **Languages:** JavaScript, HTML, CSS , Java 
 - **Testing:** Manual Testing, Cypress, Selenium ,TestNG, BBD Cucumber, Page Object Model (POM)  
 - **Tools:** Git, GitHub, VS Code, Postman  
-- **Other:** Test Planning, Bug Reporting, Documentation  
+- **Other:** Test Planning, Bug Reporting, Documentation
+
+## 📊 GitHub Stats
+![Ramanuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanuj2001&show_icons=true&theme=tokyonight)
+
 
 
 ## Projects
