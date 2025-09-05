@@ -24,6 +24,11 @@
 ## 📊 GitHub Stats
 ![Ramanuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramanuj2001&show_icons=true&theme=tokyonight)
 
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanuj2001&layout=compact&theme=tokyonight)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramanuj2001&theme=tokyonight)
 
 
 ## Projects
