@@ -14,3 +14,8 @@
 - [LinkedIn](https://www.linkedin.com/in/ramanuj-saini-a45465201) 
 - [Portfolio](https://ramanuj2001.github.io/Portfolio/)  
 - 📧 Email: ramanujsaini2001@gmail.com  
+
+Snapdeal E-Commerce Platform – Cypress
+Automated core flows (Login, Search, Product Details, Cart & Checkout) using Cypress (JavaScript) with POM structure.
+Performed manual, regression, and API testing to validate frontend–backend functionality.
+Created and maintained test documentation (test cases, reports, and defect logs).
