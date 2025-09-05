@@ -25,7 +25,7 @@
   - Login and account validation
   - Product search and filter automation
   - Cart management and checkout flow testing  
-- **Repository:** [Flipkart Automation](https://github.com/Ramanuj2001/flipkart-automation)  
+- **Repository:** [Flipkart Automation](https://github.com/Ramanuj2001/Flipkart-testing)  
 
 
 
