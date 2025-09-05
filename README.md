@@ -13,7 +13,13 @@
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/ramanuj-saini-a45465201) 
 - [Portfolio](https://ramanuj2001.github.io/Portfolio/)  
-- 📧 Email: ramanujsaini2001@gmail.com  
+- 📧 Email: ramanujsaini2001@gmail.com
+
+## 🛠️ Skills
+- **Languages:** JavaScript, HTML, CSS , Java 
+- **Testing:** Manual Testing, Cypress, Selenium ,TestNG, BBD Cucumber, Page Object Model (POM)  
+- **Tools:** Git, GitHub, VS Code, Postman  
+- **Other:** Test Planning, Bug Reporting, Documentation  
 
 
 ## Projects
