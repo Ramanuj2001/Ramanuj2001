@@ -30,6 +30,9 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramanuj2001&theme=tokyonight)
 
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramanuj2001&theme=tokyo-night)
+
 
 ## Projects
 
