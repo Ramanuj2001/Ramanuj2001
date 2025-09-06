@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 Current Work  
-- Automating **Flipkart & Myntra** with Cypress POM  
+- Automating  with Cypress POM and Selenium TestNG
 - Writing **Test Plans & Bug Reports**  
 - Exploring **API Testing & CI/CD integration**  
 
