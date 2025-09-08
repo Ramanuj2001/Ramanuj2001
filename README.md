@@ -59,9 +59,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Ramanuj2001/Ramanuj2001/blob/output/github-contribution-grid-snake.svg)
-
----
-
 
