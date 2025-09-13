@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Ramanuj  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ramanuj2001&label=Profile%20Views&color=blue&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/Ramanuj2001?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/Ramanuj2001?affiliations=OWNER&style=social)  
+ 
 
 💻 **Software Tester | Automation Enthusiast**  
 🔍 Skilled in **Manual Testing, Cypress (JavaScript), Selenium (Java), REST Assured**  
